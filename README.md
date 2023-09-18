@@ -1,2 +1,2 @@
 # unity-cicd-test
-# this project is for testing game CICD
+this project is for testing game CICD
